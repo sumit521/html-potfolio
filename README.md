@@ -1,1 +1,1 @@
-A web development introductory exerxise
+A web development introductory exercise
